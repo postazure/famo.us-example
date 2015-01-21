@@ -1,0 +1,19 @@
+{
+  "name": "basic_example",
+  "version": "0.0.0",
+  "authors": [
+    "Max Gordon <gordonmaxc@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "famous": "~0.3.4",
+    "requirejs": "~2.1.15"
+  }
+}
